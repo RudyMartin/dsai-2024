@@ -47,5 +47,7 @@ Robot Deception: How Tech Companies Are Fooling Us
 Google’s NEW Prompting Guide is Incredible!
 [https://www.youtube.com/watch?v=o64Mv-ArFDI]
 
+###  LLM
 
- 
+FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!
+[https://www.youtube.com/watch?v=dOm9YWSYbbg]

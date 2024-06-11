@@ -37,4 +37,9 @@ Active Learning. The Secret of Training Models Without Labels.
 Introduction To Autoencoders In Machine Learning.
 [https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s]
 
+### Robotics
+
+Robot Deception: How Tech Companies Are Fooling Us
+[https://www.youtube.com/watch?v=52zMLS6gZbY&t=29s]
+
  

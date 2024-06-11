@@ -49,5 +49,8 @@ Google’s NEW Prompting Guide is Incredible!
 
 ###  LLM
 
+Open Source RAG running LLMs locally with Ollama
+[https://www.youtube.com/watch?v=swKKRdLBhas]
+
 FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!
 [https://www.youtube.com/watch?v=dOm9YWSYbbg]

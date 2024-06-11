@@ -37,4 +37,20 @@ Active Learning. The Secret of Training Models Without Labels.
 Introduction To Autoencoders In Machine Learning.
 [https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s]
 
- 
+### Robotics
+
+Robot Deception: How Tech Companies Are Fooling Us
+[https://www.youtube.com/watch?v=52zMLS6gZbY&t=29s]
+
+### Prompting
+
+Google’s NEW Prompting Guide is Incredible!
+[https://www.youtube.com/watch?v=o64Mv-ArFDI]
+
+###  LLM
+
+Open Source RAG running LLMs locally with Ollama
+[https://www.youtube.com/watch?v=swKKRdLBhas]
+
+FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!
+[https://www.youtube.com/watch?v=dOm9YWSYbbg]

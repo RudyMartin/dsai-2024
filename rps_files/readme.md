@@ -1,8 +1,8 @@
 # Data Science Experiment Instructions - Draft 20240611-a
 
-## Instructions to Download Files from GitHub and Upload to Google Drive
 
-Please follow the steps below to download the necessary files from GitHub and upload them to the specified Google Drive folder:
+Please follow the steps below to download the necessary files from GitHub and upload them to the specified Google Drive folder.
+There are three runs you will  need  to document. 
 
 ### Step 1 Download Files from GitHub
 
@@ -31,7 +31,7 @@ Please follow the steps below to download the necessary files from GitHub and up
     - Confirm the upload. If prompted to replace existing files, confirm the replacement.
 
 
-### Step 3: Process Raw Images and Adjust
+### Step 3: Process Raw Initial Images and Establish Baseline Model
 1. **Input**: Raw images.
 2. **Action**: Run the raw images through the raw model.
 3. **Output**: Use the output to adjust the images.
@@ -41,7 +41,7 @@ Please follow the steps below to download the necessary files from GitHub and up
     - Based on the model's output, adjust the images accordingly.
     - Save the adjusted images for the next step.
 
-### Step 4: Process Adjusted Images and Get LLM Suggestions
+### Step 4: Process Adjusted Images with Baseline and then Get LLM Suggestions from Confusion Matrix and other data.
 1. **Input**: Adjusted images.
 2. **Action**: Run the adjusted images through the raw model again.
 3. **Output**: Take the output and request suggestions from the LLM model.
@@ -61,7 +61,7 @@ Please follow the steps below to download the necessary files from GitHub and up
     Given the following outputs from processing adjusted images with a raw model, what additional adjustments or modifications would you recommend to improve accuracy and performance?
     ```
 
-### Step 5: Create New Model with Adjusted Data and LLM Suggestions
+### Step 5: Create New Model with Adjusted Images Data and relevant LLM Suggestions
 1. **Input**: Adjusted data and LLM suggestions.
 2. **Action**: Create a new model incorporating the hyperparameter suggestions.
 3. **Output**: Final model with enhanced performance.
@@ -72,8 +72,10 @@ Please follow the steps below to download the necessary files from GitHub and up
     - Evaluate the performance of the new model and make further adjustments if necessary.
 
 ---
+### Step 6: Prepare Your Presentation for Project
 
-This structure provides clear instructions for each step of your experiment, ensuring that all actions and inputs/outputs are well-defined.
+
+This page aims to provide clear instructions for each step of your experiment, ensuring that all actions and inputs/outputs are well-defined.
 
 
 

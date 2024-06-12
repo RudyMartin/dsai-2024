@@ -1,8 +1,10 @@
-# Instructions to Download Files from GitHub and Upload to Google Drive
+# Data Science Experiment Instructions - Draft 20240611-a
+
+## Instructions to Download Files from GitHub and Upload to Google Drive
 
 Please follow the steps below to download the necessary files from GitHub and upload them to the specified Google Drive folder:
 
-## Step 1: Download Files from GitHub
+### Step 1 Download Files from GitHub
 
 1. Open your web browser and go to the following GitHub repository link:
 
@@ -12,7 +14,7 @@ Please follow the steps below to download the necessary files from GitHub and up
 
 2. Download each file by clicking on the "Download" button or by right-clicking the file and selecting "Save Link As...".
 
-## Step 2: Upload Files to Google Drive
+### Step 2: Upload Files to Google Drive
 
 1. Open your web browser and go to [Google Drive](https://drive.google.com/).
 
@@ -29,12 +31,7 @@ Please follow the steps below to download the necessary files from GitHub and up
     - Confirm the upload. If prompted to replace existing files, confirm the replacement.
 
 
-
-Certainly! Here's a Markdown guide for the data science experiment you described, along with two prompt options for Step 2.
-
-### Data Science Experiment Instructions
-
-#### Step 1: Process Raw Images and Adjust
+### Step 3: Process Raw Images and Adjust
 1. **Input**: Raw images.
 2. **Action**: Run the raw images through the raw model.
 3. **Output**: Use the output to adjust the images.
@@ -44,7 +41,7 @@ Certainly! Here's a Markdown guide for the data science experiment you described
     - Based on the model's output, adjust the images accordingly.
     - Save the adjusted images for the next step.
 
-#### Step 2: Process Adjusted Images and Get LLM Suggestions
+### Step 4: Process Adjusted Images and Get LLM Suggestions
 1. **Input**: Adjusted images.
 2. **Action**: Run the adjusted images through the raw model again.
 3. **Output**: Take the output and request suggestions from the LLM model.
@@ -64,7 +61,7 @@ Certainly! Here's a Markdown guide for the data science experiment you described
     Given the following outputs from processing adjusted images with a raw model, what additional adjustments or modifications would you recommend to improve accuracy and performance?
     ```
 
-#### Step 3: Create New Model with Adjusted Data and LLM Suggestions
+### Step 5: Create New Model with Adjusted Data and LLM Suggestions
 1. **Input**: Adjusted data and LLM suggestions.
 2. **Action**: Create a new model incorporating the hyperparameter suggestions.
 3. **Output**: Final model with enhanced performance.

@@ -30,7 +30,53 @@ Please follow the steps below to download the necessary files from GitHub and up
 
 
 
+Certainly! Here's a Markdown guide for the data science experiment you described, along with two prompt options for Step 2.
 
+### Data Science Experiment Instructions
+
+#### Step 1: Process Raw Images and Adjust
+1. **Input**: Raw images.
+2. **Action**: Run the raw images through the raw model.
+3. **Output**: Use the output to adjust the images.
+4. **Details**: 
+    - Load the raw images into your environment.
+    - Use the raw model to process these images.
+    - Based on the model's output, adjust the images accordingly.
+    - Save the adjusted images for the next step.
+
+#### Step 2: Process Adjusted Images and Get LLM Suggestions
+1. **Input**: Adjusted images.
+2. **Action**: Run the adjusted images through the raw model again.
+3. **Output**: Take the output and request suggestions from the LLM model.
+4. **Details**: 
+    - Load the adjusted images into your environment.
+    - Use the raw model to process these images.
+    - Take the model's output and formulate a request for the LLM model to get suggestions for further adjustments or improvements.
+    - Save the suggestions and outputs for the next step.
+
+    **Prompt Option 1**:
+    ```
+    Here are the outputs from a raw model processing a set of adjusted images. Can you suggest further adjustments or improvements to enhance the model's performance?
+    ```
+
+    **Prompt Option 2**:
+    ```
+    Given the following outputs from processing adjusted images with a raw model, what additional adjustments or modifications would you recommend to improve accuracy and performance?
+    ```
+
+#### Step 3: Create New Model with Adjusted Data and LLM Suggestions
+1. **Input**: Adjusted data and LLM suggestions.
+2. **Action**: Create a new model incorporating the hyperparameter suggestions.
+3. **Output**: Final model with enhanced performance.
+4. **Details**:
+    - Combine the adjusted data with the suggestions provided by the LLM.
+    - Incorporate hyperparameter suggestions as advised by the LLM.
+    - Train a new model using this enhanced dataset.
+    - Evaluate the performance of the new model and make further adjustments if necessary.
+
+---
+
+This structure provides clear instructions for each step of your experiment, ensuring that all actions and inputs/outputs are well-defined.
 
 
 

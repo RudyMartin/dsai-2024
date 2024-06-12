@@ -7,8 +7,8 @@ Please follow the steps below to download the necessary files from GitHub and up
 1. Open your web browser and go to the following GitHub repository link:
 
     - [2024_project_template_v4.ipynb](https://github.com/RudyMartin/dsai-2024/blob/main/rps_files/2024_project_template_v4.ipynb)
-    - [dlutils.py](URL_TO_dlutils.py)
-    - [kerutils.py](URL_TO_kerutils.py)
+    - [dlutils.py](https://github.com/RudyMartin/dsai-2024/blob/main/rps_files/dlutils.py)
+    - [kerutils.py](https://github.com/RudyMartin/dsai-2024/blob/main/rps_files/kerutils.py)
 
 2. Download each file by clicking on the "Download" button or by right-clicking the file and selecting "Save Link As...".
 

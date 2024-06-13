@@ -1,4 +1,4 @@
-From Basics to Brilliant: Unlocking the Secrets of CNNs with Rock, Paper, Scissors
+# From Basics to Brilliant: Unlocking the Secrets of CNNs with Rock, Paper, Scissors
 
 Suggestions for turning a baseline image recognition model into a high performance one.
 

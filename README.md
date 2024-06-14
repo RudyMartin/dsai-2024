@@ -49,7 +49,17 @@ Google’s NEW Prompting Guide is Incredible!
 
 ###  LLM
 
-Open Source RAG running LLMs locally with Ollama
+[1hr Talk] Intro to Large Language Models
+[https://www.youtube.com/watch?v=zjkBMFhNj_g]
+
+Building a RAG application from scratch using Python, LangChain, and the OpenAI API
+[https://www.youtube.com/watch?v=BrsocJb-fAo&t=14s]
+
+###  Tensorflow
+
+TensorFlow in 100 Seconds
+[https://www.youtube.com/watch?v=i8NETqtGHms]
+
 [https://www.youtube.com/watch?v=swKKRdLBhas]
 
 FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!

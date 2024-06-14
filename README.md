@@ -21,31 +21,30 @@ We build a Generatively Pretrained Transformer (GPT), following the paper "Atten
 We integrated OpenAI's Whisper with Spot
 [https://www.youtube.com/watch?v=9uTlRae2uQs]
 
-
 We integrated ChatGPT with our robots
 [https://www.youtube.com/watch?v=Y1-s37zrm1M]
-
 
 The Confusion Matrix in Machine Learning
 [https://www.youtube.com/watch?v=H2M3fT1njXQ]
 
-
 Active Learning. The Secret of Training Models Without Labels.
 [https://www.youtube.com/watch?v=WJeQZVh5HLo]
 
-
 Introduction To Autoencoders In Machine Learning.
 [https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s]
+
 
 ### Robotics
 
 Robot Deception: How Tech Companies Are Fooling Us
 [https://www.youtube.com/watch?v=52zMLS6gZbY&t=29s]
 
+
 ### Prompting
 
 Google’s NEW Prompting Guide is Incredible!
 [https://www.youtube.com/watch?v=o64Mv-ArFDI]
+
 
 ###  LLM
 
@@ -55,12 +54,14 @@ Google’s NEW Prompting Guide is Incredible!
 Building a RAG application from scratch using Python, LangChain, and the OpenAI API
 [https://www.youtube.com/watch?v=BrsocJb-fAo&t=14s]
 
+Train Llama-3 8B on Any Dataset on Free Google Colab
+[https://www.youtube.com/watch?v=wzZUkTSSyic&t=260s]
+
+
 ###  Tensorflow
 
 TensorFlow in 100 Seconds
 [https://www.youtube.com/watch?v=i8NETqtGHms]
-
-[https://www.youtube.com/watch?v=swKKRdLBhas]
 
 FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!
 [https://www.youtube.com/watch?v=dOm9YWSYbbg]

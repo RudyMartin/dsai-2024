@@ -1,3 +1,6 @@
+# dsai-2024
+modeling examples and materials for data science camp students and volunteers
+
 # 2024-data-science-camp
 
 ## links and resources for summer camp

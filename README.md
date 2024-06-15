@@ -1,9 +1,13 @@
 # dsai-2024
-modeling examples and materials for data science camp students and volunteers
+Extra modeling examples, corrections and materials for data science camp students and volunteers
 
-# 2024-data-science-camp
+Subscribe to this repos notifications to be up-to-date as materials will change during camp week.
 
-## links and resources for summer camp
+If you find an interesting, short compeling video that complements  or introduces these materials, then let me know.
+
+In the meantime, this list includes materials we have just covered.
+
+### links and resources for summer camp
 
 [https://github.com/karpathy/minGPT]
 

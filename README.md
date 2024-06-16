@@ -16,7 +16,7 @@ In the meantime, this list includes materials we have just covered.
 
 ### Short Videos for Data Science Concepts (Short videos to introduce discussion topics)
 
-[We integrated OpenAI's Whisper with Spot][https://www.youtube.com/watch?v=9uTlRae2uQs]
+[We integrated OpenAI's Whisper with Spot](https://www.youtube.com/watch?v=9uTlRae2uQs)
 
 [We integrated ChatGPT with our robots](https://www.youtube.com/watch?v=Y1-s37zrm1M)
 

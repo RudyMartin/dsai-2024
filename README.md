@@ -59,19 +59,11 @@ In the meantime, this list includes materials we have just covered.
 
 KothaEd : [Flower Classification Project in Python Deep Learning Neural Network Model Project in Python](https://www.youtube.com/watch?v=h6TJiGrYINk&t=46s)
 
-Karpathy : 
+Karpathy :
 
- * [MiniGpt](https://github.com/karpathy/minGPT)
+ * [MiniGpt](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training - karpathy/minGPT
 
-GitHub - karpathy/minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-
-A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training - karpathy/minGPT
-
- * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-
-Let's build GPT: from scratch, in code, spelled out. - YouTube
-
-We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3.
+ * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) - We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3.
 
 
 ### Other Instructional Resources We Liked
@@ -82,7 +74,7 @@ We build a Generatively Pretrained Transformer (GPT), following the paper "Atten
 
  * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&t=7s) - 17 minutes
  
- * [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning[(https://www.youtube.com/watch?v=wjZofJX0v4M) - 27 minutes
+ * [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M) - 27 minutes
  
  * [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://www.youtube.com/watch?v=eMlx5fFNoYc) - 26 minutes
 

@@ -1,17 +1,14 @@
 # dsai-2024
 
-This repo contahttps://github.com/DSAISummerCamp/dscamp_public
-
-Extra modeling examples, corrections and materials for data science camp students and volunteers.
+Contents: Extra modeling examples, corrections and materials for data science camp students and volunteers.
 
 Please refer to the following for course outlines:
 
   * [DSAISummerCamp/dscamp_public](https://github.com/DSAISummerCamp/dscamp_public)
 
+Subscribe to this repos notifications to be up-to-date as materials will change during camp weeks.
 
-Subscribe to this repos notifications to be up-to-date as materials will change during camp week.
-
-If you find an interesting, short compeling video that complements  or introduces these materials, then let me know.
+If you find an interesting, short compeling video that complements or introduces these materials, then let me know.
 
 In the meantime, this list includes materials we have just covered.
 
@@ -31,7 +28,7 @@ Let's build GPT: from scratch, in code, spelled out. - YouTube
 We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3.
 
 
-### Short Videos for Data Science Concepts
+### Short Videos for Data Science Concepts (Short videos to introduce discussion topics)
 
 We integrated OpenAI's Whisper with Spot
 [https://www.youtube.com/watch?v=9uTlRae2uQs]
@@ -80,3 +77,9 @@ TensorFlow in 100 Seconds
 
 FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!
 [https://www.youtube.com/watch?v=dOm9YWSYbbg]
+
+### Pr0jects
+
+
+[Flower Classification Project in Python Deep Learning Neural Network Model Project in Python]
+(https://www.youtube.com/watch?v=h6TJiGrYINk&t=46s)

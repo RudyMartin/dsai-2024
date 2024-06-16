@@ -81,5 +81,4 @@ FREE & PRIVATE ChatGPT: Run LLMs locally on your laptop with Ollama!
 ### Pr0jects
 
 
-[Flower Classification Project in Python Deep Learning Neural Network Model Project in Python]
-(https://www.youtube.com/watch?v=h6TJiGrYINk&t=46s)
+[Flower Classification Project in Python Deep Learning Neural Network Model Project in Python](https://www.youtube.com/watch?v=h6TJiGrYINk&t=46s)

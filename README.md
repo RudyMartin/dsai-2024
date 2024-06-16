@@ -1,5 +1,13 @@
 # dsai-2024
-Extra modeling examples, corrections and materials for data science camp students and volunteers
+
+This repo contahttps://github.com/DSAISummerCamp/dscamp_public
+
+Extra modeling examples, corrections and materials for data science camp students and volunteers.
+
+Please refer to the following for course outlines:
+
+  * [DSAISummerCamp/dscamp_public](https://github.com/DSAISummerCamp/dscamp_public)
+
 
 Subscribe to this repos notifications to be up-to-date as materials will change during camp week.
 

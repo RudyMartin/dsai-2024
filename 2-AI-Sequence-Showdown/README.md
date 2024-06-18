@@ -12,7 +12,7 @@
   - Develop a user authentication system.
   - Set up a non-monetary point system for tracking player scores.
   - Create the AI model to generate predictive insights based on previous game rounds.
-  - Integrate the Akash network for handling entry fees and secure data storage.
+  - Integrate the [Akash network](https://akash.network) for handling entry fees and secure data storage.
 
 **Phase 2: Nebula Expansion**
 - **Objective**: Enhance user experience and educational content.
@@ -20,15 +20,15 @@
   - Design and implement the user interface with HTML5, CSS, and JavaScript.
   - Develop interactive educational modules about AI and data science.
   - Introduce detailed analytics for players to study and improve their prediction strategies.
-  - Test the system with a closed beta to gather user feedback and make adjustments.
+  - Test a deployment on the [Akash network](https://console.akash.network) console with a closed beta to gather user feedback and make adjustments.
 
 **Phase 3: Cosmos Conquest**
 - **Objective**: Launch publicly with full features and initiate marketing campaigns.
 - **Tasks**:
-  - Open the platform for public registration.
+  - Open the game for public registration and additional student enhancements.
   - Implement a marketing strategy that includes social media campaigns, partnerships with educational institutions, and digital advertising.
   - Roll out competitive features like leaderboards and periodic challenges.
-  - Regularly update the platform with new images and puzzles to keep the content fresh and engaging.
+  - Regularly update the game with new images and puzzles to keep the content fresh and engaging.
 
 ### Additional Considerations
 - **Compliance and Security**: Ensure all features comply with legal requirements for non-gambling interactive competitions. Implement robust security measures to protect user data and transactions.

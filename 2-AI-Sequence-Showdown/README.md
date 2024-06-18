@@ -1,4 +1,6 @@
-### Pitch for "AI Sequence Showdown"
+### Pitch for "AI Sequence Showdown" 
+  - Watch this repo and see how our teams take their knowledge and experience to the next levels.
+
 "AI Sequence Showdown" transforms into a thrilling online competition where players use their analytical skills to predict sequences of images, based on AI-generated insights. Instead of betting real money, players use points to compete, enhancing the focus on strategy and knowledge. Entry is granted through a 1 $AKT token fee or an instructor-provided coupon, valid for 90 days of gameplay. This setup encourages learning and engagement in AI and data analysis within a fun, interactive environment.
 
 ### Detailed Outline for Development and Rollout

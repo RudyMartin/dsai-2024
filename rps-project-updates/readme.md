@@ -15,7 +15,7 @@ There are three runs you will  need  to document.
       to be used if/when student-generated images are not high quality or as base case
     - [train.zip](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/data_collection/train.zip)
       to be used if/when student-generated images are not high quality or as base case
-    - [rps_360pics.zip](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/data_collection/rps_360pics.zip)
+    - [rps_660pics.zip](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/data_collection/rps_660pics.zip)
       we used this to show effect of more / better data in the later more advanced experimenting stages
     
     Template folder changes :

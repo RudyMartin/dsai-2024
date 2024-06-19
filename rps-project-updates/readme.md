@@ -1,4 +1,4 @@
-# Data Science Experiment Instructions - Draft 20240611-a
+# Data Science Experiment Instructions - Updated Jun 18, 2024
 
 
 Please follow the steps below to download the necessary files from GitHub and upload them to the specified Google Drive folder.

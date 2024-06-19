@@ -100,11 +100,10 @@ There are three runs you will  need  to document.
     - At least two of the team members should present
     - Suggested roles are: scrum master, coder and presentation designer.
     - Start the presentation creation process as soon as your team is assembled. This takes time too!
-
-
-The more-resources folder also contains hints you might use:
-    - Eexample using pre-trained model =  tf_transfer_learning_MobileNetV2.ipynb
-    - Pytorch examples
-    - CIFAR10 based tutorials for multi-class experiments – one student applied this to sign language
-    - New camp video links to reinforce / introduce concepts – also added other data science resources on main readme
-    - Fimally. there are examples of other presentations but make yours unique and informative. Tell a compelling story with data science.
+    
+    The more-resources folder also contains hints you might use:
+       - Eexample using pre-trained model =  tf_transfer_learning_MobileNetV2.ipynb
+       - Pytorch examples
+       - CIFAR10 based tutorials for multi-class experiments – one student applied this to sign language
+       - New camp video links to reinforce / introduce concepts – also added other data science resources on main readme
+       - Fimally. there are examples of other presentations but make yours unique and informative. Tell a compelling story with data science.

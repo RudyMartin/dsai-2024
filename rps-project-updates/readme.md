@@ -42,15 +42,16 @@ There are three runs you will  need  to document.
 3. Upload the downloaded files into the `2024 Rock Paper Scissors` folder they belong in - either templates or data collection. 
 
     - Click on the "New" button, then select "File upload".
-    - Select `2024_project_template_v4.ipynb`, `dlutils.py`, and `kerutils.py` from your computer.
-    - Do the same with the zip files `test.zip`, `train.zip`, and `rps_360pics.zip`
+    - Select `2024_project_template_v4edit.ipynb`, `dlutils.py`, and `kerutils.py` from your computer.
+    - Do the same with the zip files `test.zip`, `train.zip`, and `rps_660pics.zip`
     - Confirm the uploads. If prompted to replace existing files, confirm the replacement.
+    - Remember : Create an rps folder at the /content/gdrive/My Drive folder to hold images
 
 
 ### Step 3: Process Raw Initial Images and Establish Your Baseline Model
-1. **Input**: Raw images created with `data_prep_v2.ipynb`
-2. **Action**: Run the raw images through the raw model using `2024_project_template_v4.ipynb`
-3. **Output**: Use the output to adjust the images.
+1. **Input**: Raw images created with `data_prep_v3.ipynb`
+2. **Action**: Run the raw images  you create through the raw model using `2024_project_template_v4.ipynb`
+3. **Output**: Use the output and results to adjust and select your testing/training images.
 4. **Details**: 
     - Load the raw images into your environment. The new instructions are to create a separate folder for images.
     - Place your clean train images into `/content/gdrive/My Drive/rps/train`
@@ -61,58 +62,49 @@ There are three runs you will  need  to document.
 
 ### Step 4: Process Adjusted Images with Baseline and then Get LLM Suggestions from Confusion Matrix and other data.
 1. **Input**: Adjusted images.
-2. **Action**: Run the adjusted images through the raw model again.
+2. **Action**: Run the adjusted images through the raw model using `2024_project_template_v4.ipynb`
 3. **Output**: Take the output and request suggestions from the LLM model.
 4. **Details**: 
     - Load the adjusted images into your environment.
     - Place your clean train images into `/content/gdrive/My Drive/rps/train`
     - Place your clean test images into `/content/gdrive/My Drive/rps/test`
     - Use the raw model to process these images.
-    - Take the model's output and formulate a request for the LLM model to get suggestions for further adjustments or improvements.
+    - Take the model's output and formulate a ChatGPT request to get suggestions for further adjustments or improvements.
     - Save the suggestions and outputs for the next step.
+    - You will need to document suggestions, actions you took and experience of work with AI as a coding/teaching assistant.
 
     **Prompt Option 1**:
     ```
-    Here are the outputs from a raw model processing a set of adjusted images. Can you suggest further adjustments or improvements to enhance the model's performance?
+    I am a high school student at at data science summer camp working on a CNN model. Can I upload the confusion matrix to obtain options to enhance the model's performance? What else is need for a better evaluation?
     ```
 
     **Prompt Option 2**:
     ```
-    Given the following outputs from processing adjusted images with a raw model, what additional adjustments or modifications would you recommend to improve accuracy and performance?
+    Given the following outputs from classifying jpg images, what additional adjustments or modifications would you recommend to improve accuracy and performance? What are the preferred models for this using Google colab?
     ```
 
-### Step 5: Create New Model with Adjusted Images Data and relevant LLM Suggestions
-1. **Input**: Adjusted data and LLM suggestions.
-2. **Action**: Create a new model incorporating the hyperparameter suggestions.
+### Step 5: Create New Model Notebook using relevant LLM Chat-generated suggestions
+1. **Input**: Adjusted your images, model architecture and processing to include LLM suggestions.
+2. **Action**: Create a new model incorporating the hyperparameter suggestions and other changes.
 3. **Output**: Final model with enhanced performance.
 4. **Details**:
-    - Combine the adjusted data with the suggestions provided by the LLM.
+    - Categorize the adjusted data with the suggestions provided by the LLM.
     - Incorporate hyperparameter suggestions as advised by the LLM.
-    - Train a new model using this enhanced dataset.
-    - Evaluate the performance of the new model and make further adjustments if necessary.
+    - Train a new model using an enhanced dataset - possibly including the zip data to enhance comparisons.
+    - Evaluate the performance of the new model and continue making further adjustments to improve performance if necessary.
 
 ---
 ### Step 6: Prepare Your Presentation for Project
+See class instructor for clear instructions.
+Don't forget to include a page highlighting the team and their respective roles
+At least two of the team members should present
+Suggested roles are: scrum master, coder and presentation designer.
+Start the presentation creation process as soon as your team is assembled. This takes time too!
 
 
-This page aims to provide clear instructions for each step of your experiment, ensuring that all actions and inputs/outputs are well-defined.
-
-Copies of student final presentations
-Additional python data detective challenge (find out why the stats are against the house on a guessing game)
-Exercises and Answers for StatsSnap, TempTrack and Score_Predictor python coding challenges
-rps_files – files to update project template and utilities. See directions in readme for the folder.
-Updated data_prep_v2 – one that deals with colab name conflict issue and will not lose files.
-
-TeamX_CNN_Models.ipynb – this was the base case template (student data / common code). Used to compare results generated by different data sets.
-base_2024_project_template_v5.ipynb – this was the template we had students use as a starting point for their experiments.
-More python for the advanced ones
-Comparison of tensorflow vs pytorch approaches for cnn models
- i.      pt_train_rps_cnn_models.ipynb (version 2 has more evaluation charts)
-ii.      tf_train_rps_cnn_models.ipynb
-
-example using pre-trained model =  tf_transfer_learning_MobileNetV2.ipynb
+The more-resources folder also contains hints you might use:
+Eexample using pre-trained model =  tf_transfer_learning_MobileNetV2.ipynb
+Pytorch examples
 CIFAR10 based tutorials for multi-class experiments – one student applied this to sign language
 New camp video links to reinforce / introduce concepts – also added other data science resources on main readme
-Printout into csv of confusion matrix that was used to inform ChatGPT of model performance and use it for assistance for more improvements or options.
-For some students, this was the third time through the materials so it was important to cover a wider range of materials to keep them interested too.
-
+Fimally. there are examples of other presentations but make yours unique and informative. Tell a compelling story with data science.

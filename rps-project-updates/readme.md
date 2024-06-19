@@ -9,7 +9,7 @@ There are three runs you will  need  to document.
 1. Open your web browser and go to the following GitHub repository links:
 
    Data Prep folder changes :
-   - [data_prep_v2.ipynb](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/data_collection/data_prep_v2.ipynb)
+   - [data_prep_v3.ipynb](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/data_collection/data_prep_v3.ipynb)
       use this for improved image cleanup
     - [test.zip](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/data_collection/test.zip)
       to be used if/when student-generated images are not high quality or as base case
@@ -19,7 +19,7 @@ There are three runs you will  need  to document.
       we used this to show effect of more / better data in the later more advanced experimenting stages
     
     Template folder changes :
-    - [2024_project_template_v4.ipynb](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/templates/2024_project_template_v4.ipynb)
+    - [2024_project_template_v4edit.ipynb](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/templates/2024_project_template_v4edit.ipynb)
       use this to demo the process ONLY using your raw data - requires clean versions of the following two files
       (you will need to rename the older utility files before replacing them with these)
     - [dlutils.py](https://github.com/RudyMartin/dsai-2024/blob/main/rps-project-updates/templates/dlutils.py)

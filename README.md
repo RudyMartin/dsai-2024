@@ -32,7 +32,9 @@ In the meantime, this list includes materials we have just covered.
 [Robot Deception: How Tech Companies Are Fooling Us](https://www.youtube.com/watch?v=52zMLS6gZbY&t=29s)
 
 
-### Prompting
+### Prompting and Speed Learning
+
+[How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://www.youtube.com/watch?v=VznoKyh6AXs)
 
 [Google’s NEW Prompting Guide is Incredible](https://www.youtube.com/watch?v=o64Mv-ArFDI)
 

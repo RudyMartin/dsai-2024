@@ -31,9 +31,10 @@ In the meantime, this list includes materials we have just covered.
 
 ### Prompting and Speed Learning
 
-[How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://www.youtube.com/watch?v=VznoKyh6AXs)
+[How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://www.youtube.com/watch?v=VznoKyh6AXs) - 22 minutes
 
-[Google’s NEW Prompting Guide is Incredible](https://www.youtube.com/watch?v=o64Mv-ArFDI)
+[Google’s NEW Prompting Guide is Incredible](https://www.youtube.com/watch?v=o64Mv-ArFDI) - 10 minutes
+
 
 ### Other Instructional Resources We Liked
 

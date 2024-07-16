@@ -24,7 +24,7 @@ In the meantime, this list includes materials we have just covered.
 
 [Active Learning. The Secret of Training Models Without Labels](https://www.youtube.com/watch?v=WJeQZVh5HLo) - 7 minutes
 
-[Introduction To Autoencoders In Machine Learning](https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s)
+[Introduction To Autoencoders In Machine Learning](https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s) - 13 minutes
 
 
 ### Robotics

@@ -20,9 +20,9 @@ In the meantime, this list includes materials we have just covered.
 
 [We integrated ChatGPT with our robots](https://www.youtube.com/watch?v=Y1-s37zrm1M) - 2 minutes
 
-[The Confusion Matrix in Machine Learning](https://www.youtube.com/watch?v=H2M3fT1njXQ)
+[The Confusion Matrix in Machine Learning](https://www.youtube.com/watch?v=H2M3fT1njXQ) - 9 minutes
 
-[Active Learning. The Secret of Training Models Without Labels](https://www.youtube.com/watch?v=WJeQZVh5HLo)
+[Active Learning. The Secret of Training Models Without Labels](https://www.youtube.com/watch?v=WJeQZVh5HLo) - 7 minutes
 
 [Introduction To Autoencoders In Machine Learning](https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s)
 

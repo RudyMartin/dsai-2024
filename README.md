@@ -1,12 +1,16 @@
 # dsai-2024
 
+This repo was created to consolidate all the  materials for the MVPS Data Science Summer Camp.
+
 Contents: Extra modeling examples, corrections and materials for data science camp students and volunteers.
 
-Please refer to the following for course outlines:
+While every effort was made to include current materials please refer to the following for prior versions:
 
   * [DSAISummerCamp/dscamp_public](https://github.com/DSAISummerCamp/dscamp_public)
 
-Subscribe to this repos notifications to be up-to-date as materials will change during camp weeks.
+Subscribe to this repos notifications to be up-to-date as materials will change during the camp week. 
+
+This is the  "Daily Repo" and will include new materials from teachers and students.
 
 If you find an interesting, short compeling video that complements or introduces these materials, then let me know.
 

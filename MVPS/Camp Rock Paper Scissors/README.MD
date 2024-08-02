@@ -4,9 +4,9 @@ The goal of this project is to train neural network to recognize different hand 
 
 The project is structured as follows:
 
-- _Data Collection_ folder contains Jupyter Notebook that allows students to create their own data using computer webcam and process data for as model ready dataset.
+- _Colab_Setup: Files to connect to colab (requires internet connection  and a Google email account)
 
-- _Templates_ folder contains files:
+- _Data Collection_ folder contains Jupyter Notebook that allows students to create their own data using computer webcam and process data for as model ready dataset.
 
   - Training and testing pre-made datasets (_rps.zip_ and _rps\_test.zip_)
   - Utility functions (_dlutils.py_, _kerutils.py_)

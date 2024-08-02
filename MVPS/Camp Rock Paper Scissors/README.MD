@@ -12,7 +12,7 @@ The project is structured as follows:
   - Utility functions (_dlutils.py_, _kerutils.py_).
 
 - **model_init**: First run templates.
-  - Initial student model run (_2022_project_template.ipynb_).
+  - Initial student model run (_2024_project_template.ipynb_).
   - Weight initialization example.
   - Neural Network example with CIFAR10 data.
 

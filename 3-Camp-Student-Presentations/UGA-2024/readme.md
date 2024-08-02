@@ -1,1 +1,0 @@
-**Presentations  from UGA Students**

@@ -2,11 +2,12 @@
 
 This repo was created to consolidate all the  materials for the MVPS Data Science Summer Camp.
 
-Contents: Extra modeling examples, corrections and materials for data science camp students and volunteers.
+Contents: 
 
-While every effort was made to include current materials please refer to the following for prior versions:
-
-  * [DSAISummerCamp/dscamp_public](https://github.com/DSAISummerCamp/dscamp_public)
+  * [Camp Rock Paper Scissors](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Camp%20Rock%20Paper%20Scissors)
+  * [Session-Materials](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Session-Materials)
+  * [Student-Exercises](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Student-Exercises)
+  * [Student-Presentations](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Student-Presentations)
 
 Subscribe to this repos notifications to be up-to-date as materials will change during the camp week. 
 
@@ -88,7 +89,9 @@ Karpathy :
 
  * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) - We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3.
 
+While every effort was made to include current materials please refer to the following for prior versions:
 
+  * [DSAISummerCamp/dscamp_public](https://github.com/DSAISummerCamp/dscamp_public)
 
 
 

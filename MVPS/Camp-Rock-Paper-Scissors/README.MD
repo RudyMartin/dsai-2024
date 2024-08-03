@@ -8,12 +8,12 @@ The project is structured as follows:
 
 - **data_prep**: Folder contains Jupyter Notebooks that allow students to create their own data using a computer webcam and process data for a model-ready dataset.  
   - Templates for cleaning and validating student pictures and pre-made datasets.
-  - Utility functions (_dlutils.py_, _kerutils.py_).
 
 - **model_init**: First run templates.
   - Initial student model run (_2024_project_template.ipynb_).
   - Weight initialization example.
   - Neural Network example with CIFAR10 data.
+  - Utility functions (_dlutils.py_, _kerutils.py_).
 
 - **model_tune**: Second run templates.
 

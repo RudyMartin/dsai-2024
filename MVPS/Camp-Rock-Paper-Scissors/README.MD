@@ -8,7 +8,6 @@ The project is structured as follows:
 
 - **data_prep**: Folder contains Jupyter Notebooks that allow students to create their own data using a computer webcam and process data for a model-ready dataset.  
   - Templates for cleaning and validating student pictures and pre-made datasets.
-  - Training and testing pre-made datasets (_rps.zip_, _rps_test.zip_, and _rps-20240619T044016Z-001.zip_).
   - Utility functions (_dlutils.py_, _kerutils.py_).
 
 - **model_init**: First run templates.

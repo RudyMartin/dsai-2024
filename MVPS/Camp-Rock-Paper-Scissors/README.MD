@@ -18,6 +18,10 @@ The project is structured as follows:
 
 - **model_tune**: Second run templates.
 
+- **rps**: Example "rps" folder contains Jupyter Notebooks that allow students to create their own data using a computer webcam and process data for a model-ready dataset.  
+  - This folder is created from the data prep templates.
+  - Training and testing pre-made datasets (_rps.zip_, _rps_60.zip_, and _rps_360.zip_) are used for comparing data quality before model tuning.
+
 The project is aimed to be covered in 4 half-day modules:
 - **Data Collection**: 1 module.
 - **Model fitting and presentation prep**: 2 modules.

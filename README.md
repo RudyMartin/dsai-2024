@@ -4,7 +4,7 @@ This repo was created to consolidate all the  materials for the MVPS Data Scienc
 
 Contents: 
 
-  * [Camp Rock Paper Scissors](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Camp%20Rock%20Paper%20Scissors)
+  * [Camp Rock Paper Scissors](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Camp-Rock-Paper-Scissors)
   * [Session-Materials](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Session-Materials)
   * [Student-Exercises](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Student-Exercises)
   * [Student-Presentations](https://github.com/RudyMartin/dsai-2024/tree/main/MVPS/Student-Presentations)

@@ -21,7 +21,7 @@ The datasets  used include many 480x640x3 color images, divided into three categ
 3. **Create Initial Baseline Model:**
     - Use the rps pictures you took to create an initial baseline model.     
     - In `model_init` ... open `baseline_2024_project_template.ipynb`
-    - Save the file with your team number.
+    - Save the template file with your team number.
 
 4. **Swap Out Images:**
 Training and testing pre-made datasets (rps.zip, rps_60.zip, and rps_360.zip) are used for comparing data quality before model tuning. Pick one.
@@ -29,7 +29,7 @@ Training and testing pre-made datasets (rps.zip, rps_60.zip, and rps_360.zip) ar
     - in `data_prep` ... open `data_prep_v3_from_zip.ipynb` ... change `rps_dir = os.path.join(proj_dir, 'the  set  you  pick')`
     - in `model_init` ... open `baseline_2024_project_template.ipynb`... change `rps_dir = os.path.join(proj_dir, 'the  set  you  pick')`
     - CAREFUL :  Do not overwrite  your original rps images, just repoint to using a different dataset folder.
-    - Save the file with your team number and also note which "rps set" you used.
+    - Save the template file with your team number and also note which "rps set" you used.
 
 
 5. **Tune and Optimize:**

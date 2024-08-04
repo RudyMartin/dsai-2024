@@ -28,7 +28,7 @@ Training and testing pre-made datasets (rps.zip, rps_60.zip, and rps_360.zip) ar
     
     - in `data_prep` ... open `data_prep_v3_from_zip.ipynb` ... change `rps_dir = os.path.join(proj_dir, 'the  set  you  pick')`
     - in `model_init` ... open `baseline_2024_project_template.ipynb`... change `rps_dir = os.path.join(proj_dir, 'the  set  you  pick')`
-    - CAREFUL :  Do not overwrite  your oeiginal rps images, just repoint to using a different dataset.
+    - CAREFUL :  Do not overwrite  your original rps images, just repoint to using a different dataset folder.
     - Save the file with your team number and also note which "rps set" you used.
 
 

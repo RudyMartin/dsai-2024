@@ -7,9 +7,7 @@ Cosider this  an experiment   and  document how changes in data inputs or model 
 ### Instructions:
 
 1. **Browse and Learn the Project Files:**
-The datasets  used include many 480x640x3 color images, divided into three categories: scissors, rock, and paper. Don't worry if it seems overwhelming at first. There are zip backup files with larger sets of images that you will also be using to make comparisons. 
-
-The MVPS documents contain the Camp Project Folder: `Camp-Rock-Paper-Scissors`. 
+The datasets  used include many 480x640x3 color images, divided into three categories: scissors, rock, and paper. Don't worry if it seems overwhelming at first. There are zip backup files with larger sets of images that you will also be using to make comparisons. The MVPS documents contain the Camp Project Folder: `Camp-Rock-Paper-Scissors`. 
 
 Its sub-folders and main files are:
   - `data_prep` ... `data_prep_v3_from_student_pics.ipynb`  , `data_prep_v3_from_zip.ipynb`  

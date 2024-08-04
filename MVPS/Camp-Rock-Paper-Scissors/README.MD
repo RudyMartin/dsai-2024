@@ -14,7 +14,7 @@ The datasets  used include many 480x640x3 color images, divided into three categ
     - `rps`... will contain images you create
 
 2. **Prepare Image Dataset:**
-    - in `data_prep` ... open `data_prep_v3_from_zip.ipynb` and create images
+    - in `data_prep` ... open `data_prep_v3_from_student_pics.ipynb` and create images
     - In the project 'rps' folder, you will find a 'test' folder, as well as 'train' and 'model' folders. 
     - Save a backup of the collected data (either as a zip file or a folder) in `/content/gdrive/My Drive/dsai-2024/MVPS/Camp-Rock-Paper-Scissors/rps.zip`  or somewhere safe. If you want  to make it  to the end  with your  data  intact - save it  now.
 

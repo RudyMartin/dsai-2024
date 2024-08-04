@@ -17,7 +17,7 @@ This module introduces the basic concepts of modeling through linear  models and
 
 # Contents
 
-* Slides: Advanced Models 1 2023.pptx has material on linear models and overview of neural networks
+* Slides: Advanced Models 1 2024.pptx has material on linear models and overview of neural networks
 
 * Student Notebooks: NeuralNetworkIntroduction (Feed Forward Nets)
 

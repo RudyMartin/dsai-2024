@@ -2,7 +2,7 @@
 
 The goal of this project is to train a neural network to recognize different hand gestures in the game of rock-paper-scissors. The students are encouraged to create their own data for this project and use it for training and performance assessment.
 
-Cosider this  an experiment   and  document how changes is data or model affect outcomes. That's your presentation story.
+Cosider this  an experiment   and  document how changes in data inputs or model processes affect outcomes. That's your presentation story.
 
 ### Instructions:
 

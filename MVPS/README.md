@@ -124,7 +124,7 @@ Each of the modules is designed to be a self-contained units, with themes that a
 **Project(s):** Object Detector
  
 
-## Project: AI Startup (1 unit)
+## Project: Rock-Paper-Scissors OR AI Startup (1 unit)
 
  
 
@@ -135,7 +135,9 @@ Each of the modules is designed to be a self-contained units, with themes that a
 **Topics:** Applications of Machine Learning and AI
 
 
-**Objectives:** Teams of students design an AI startup company, using the principles of AI and machine learning from the course of the camp.
+**Objectives:** 
+1) Rock-Paper-Scissors : Teams of students explore Object Recognition techniques discussed in the course of the camp.
+2) AI-StartUp : Teams of students design an AI startup company, using the principles of AI and machine learning from the course of the camp.
  
 
 

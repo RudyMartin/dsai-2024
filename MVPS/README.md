@@ -8,10 +8,9 @@ This repository contains code and materials for Data Science camp. Please see ou
 
  |Day  | Morning Module | Afternoon Module |
  |:----|:---------------|:-----------------|
- |Monday | Intro to Data Science/ Motivating examples for each session/Set-up in Google Colab 
-  | Python Programming |
+ |Monday | Intro to Data Science/ Motivating examples for each session/Set-up in Google Colab| Python Programming |
  |Tuesday | Intro to Models | Advanced Modeling I (Linear Models, Neural Networks) |
- |Wednesday | Advanced Modeling II (Convolutional Neural Networks, Tree-based Models)  | Object Detection: introduction and data collection |
+ |Wednesday | Advanced Modeling II (Convolutional Neural Networks, Tree-based Models)| Object Detection: intro and data collection |
  |Thursday | Object Detection: model initialization and structure design | Object Detection: parameter tuning and optimization |
  |Friday | Object Detection: preparation and final presentation  |
 

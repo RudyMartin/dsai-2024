@@ -31,6 +31,8 @@ In the meantime, this list includes materials we have just covered.
 
 [Introduction To Autoencoders In Machine Learning](https://www.youtube.com/watch?v=NZ97-lFEUq8&t=11s) - 13 minutes
 
+[How Realistic Are Today’s Robots?](https://www.youtube.com/watch?v=QwAYJPjW2gI) - 17 minutes
+
 [Robot Deception: How Tech Companies Are Fooling Us](https://www.youtube.com/watch?v=52zMLS6gZbY&t=29s) - 11 minutes
 
 

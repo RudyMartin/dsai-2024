@@ -99,6 +99,8 @@ While every effort was made to include current materials please refer to the fol
 
 [Elon Musk says losers use LiDAR](https://www.youtube.com/watch?v=BFdWsJs6z4c)
 
+[Why Tesla removed Radar and Ultrasonic sensors?](https://www.youtube.com/watch?v=_W1JBAfV4Io)
+
 
 
 

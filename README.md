@@ -95,6 +95,10 @@ While every effort was made to include current materials please refer to the fol
 
   * [DSAISummerCamp/dscamp_public](https://github.com/DSAISummerCamp/dscamp_public)
 
+### Robotics and Neural Networks
+
+[Elon Musk says losers use LiDAR](https://www.youtube.com/watch?v=BFdWsJs6z4c)
+
 
 
 

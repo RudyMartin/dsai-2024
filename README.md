@@ -1,5 +1,19 @@
 # dsai-2024
 
+
+
+Github: https://github.com/dsai-2024/
+
+email:realrudymartin@gmail.com
+
+Friday Presentations: 1PM CST
+
+Zoom.us  Meeting ID
+
+483 783 4118
+
+Password: yqPn3w
+
 This repo was created to consolidate all the  materials for the MVPS Data Science Summer Camp.
 
 Contents: 

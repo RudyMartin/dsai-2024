@@ -1,4 +1,7 @@
-**Option 1: Load Pre-Trained Keras Model Directly**
+
+## Decision: Load Model or Use Weights
+
+**Option 1  (Recommended): Load Pre-Trained Keras Model Directly**
 
 **Pros:**
 

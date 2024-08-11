@@ -1,6 +1,6 @@
 # Making  Complexity Easy-to-Explain
 
-Here's a simple set off examples to help explain Algorithm Complexity
+Here's a simple set of examples to help explain Algorithm Complexity
 
 | **Name/Description** | **Math Example** |
 |----------------------|------------------|
@@ -12,7 +12,7 @@ Here's a simple set off examples to help explain Algorithm Complexity
 | **O(n!) - Factorial Time** | **Permutations**: Find all permutations of `ARR = [1, 2, 3]`.<br>Permutations: `[1, 2, 3]`, `[1, 3, 2]`, `[2, 1, 3]`, `[2, 3, 1]`, `[3, 1, 2]`, `[3, 2, 1]`.<br>Solution: `6` permutations |
 
 
-Certainly! Let's break down these time complexities with simple examples, ordered from the best (fastest) to the worst (slowest):
+And if  you are interested  in  more  examples,  these general uses are ordered from the best (fastest) to the worst (slowest):
 
 ### O(1) Time Complexity (Constant Time)
 - **Accessing an Array Index**: If you have an array `ARR`, accessing any element like `ARR[5]` takes the same amount of time, regardless of the size of the array.

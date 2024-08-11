@@ -10,9 +10,9 @@ Friday Presentations: 1PM CST
 
 Zoom.us  Meeting ID
 
-483 783 4118
+xxx
 
-Password: yqPn3w
+Password: xxx
 
 This repo was created to consolidate all the  materials for the MVPS Data Science Summer Camp.
 
